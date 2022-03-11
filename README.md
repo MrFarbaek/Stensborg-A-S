@@ -6,4 +6,11 @@ The 3D print files folder contain all required parts which needs to be printed. 
 
 The software folder contains the executable program through which the printer is controlled.
 
-The manual contains instructions as to how the printer is disassembled, the new modifications are carried out, how the printer and software is used along with a list of testet specifications and tips & tricks.
+The manual contains instructions as to how the printer is disassembled, the new modifications are carried out, how the printer and software is used along with a list of tested specifications and finally a  lost of tips, tricks, warnings etc.
+
+Any feedback is greatly appreciated.
+
+You can reach me at
+kefa@stensborg.com
+
+\\ Kevin Jensen
