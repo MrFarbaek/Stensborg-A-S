@@ -16,6 +16,9 @@ kefa@stensborg.com
 \\ Kevin Jensen
 
 Website: https://www.stensborg.com
+
 LinkedIn: https://www.linkedin.com/company/stensborg-a-s/mycompany/ 
+
 Facebook: https://www.facebook.com/holoprinters 
+
 Twitter: https://twitter.com/Stensborg
